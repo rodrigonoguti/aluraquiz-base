@@ -8,6 +8,7 @@ import QuizContainer from '../src/components/QuizContainer';
 import GitHubCorner from '../src/components/GitHubCorner';
 import AlternativesForm from '../src/components/AlternativesForm';
 import Button from '../src/components/Button';
+import Loader from '../src/components/Loader';
 
 function ResultWidget({ results }) {
   return (
@@ -53,11 +54,11 @@ function LoadingWidget() {
   return (
     <Widget>
       <Widget.Header>
-        Carregando...
+        <Loader />
       </Widget.Header>
 
       <Widget.Content>
-        [Desafio do Loading]
+        <Loader />
       </Widget.Content>
     </Widget>
   );

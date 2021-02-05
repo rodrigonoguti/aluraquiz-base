@@ -1,10 +1,10 @@
 {
   "bg": "https://floridapolitics.com/wp-content/uploads/2017/03/environmental-money.jpg",
   "title": "Quiz de Planejamento Financeiro",
-  "description": "Teste os seus conhecimentos sobre planejamento financeiro e vamos ver quanto tempo você levará para chegar ao primeiro milhão.",
+  "description": "Teste os seus conhecimentos sobre planejamento financeiro e vamos ver quanto tempo você levará para chegar ao primeiro milhão $$$ :)",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+      "image": "https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif",
       "title": "Pergunta 1???",
       "description": "Essa é pra aquecer",
       "answer": 2,
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+      "image": "https://media.giphy.com/media/5e22CwMaD4oMSk3Qpc/giphy.gif",
       "title": "Pergunta 2???",
       "description": "Faz tempo em haha",
       "answer": 0,
@@ -33,7 +33,7 @@
     "colors": {
       "primary": "#4CAF50",
       "secondary": "#ffd026",
-      "mainBg": "#e6ffe7",
+      "mainBg": "#FFF",
       "contrastText": "#004003",
       "wrong": "#FF5722",
       "success": "#4CAF50"
