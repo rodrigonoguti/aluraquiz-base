@@ -5,6 +5,7 @@ import Widget from '../src/components/Widget';
 import QuizLogo from '../src/components/QuizLogo';
 import QuizBackground from '../src/components/QuizBackground';
 import QuizContainer from '../src/components/QuizContainer';
+import GitHubCorner from '../src/components/GitHubCorner';
 import AlternativesForm from '../src/components/AlternativesForm';
 import Button from '../src/components/Button';
 
@@ -211,6 +212,7 @@ export default function QuizPage() {
 
         {screenState === screenStates.RESULT && <ResultWidget results={results} />}
       </QuizContainer>
+      <GitHubCorner projectUrl="https://github.com/rodrigonoguti" />
     </QuizBackground>
   );
 }
