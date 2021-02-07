@@ -13,11 +13,13 @@ const Widget = styled.div`
     font-weight: 700;
     line-height: 1;
     margin-bottom: 0;
+    color: ${({ theme }) => theme.colors.contrastText};
   }
   p {
     font-size: 14px;
     font-weight: 400;
     line-height: 1.7;
+    color: ${({ theme }) => theme.colors.contrastText};
   }
 `;
 
@@ -27,6 +29,7 @@ Widget.Header = styled.header`
   align-items: center;
   padding: 18px 32px;
   background-color: ${({ theme }) => theme.colors.primary};
+  color: ${({ theme }) => theme.colors.contrastText};
   
   * {
     margin: 0;

@@ -1,33 +1,46 @@
 {
   "bg": "https://floridapolitics.com/wp-content/uploads/2017/03/environmental-money.jpg",
-  "title": "Quiz de Planejamento Financeiro",
-  "description": "Teste os seus conhecimentos sobre planejamento financeiro e vamos ver quanto tempo você levará para chegar ao primeiro milhão $$$ :)",
+  "title": "$ Quiz Finanças Pessoais",
+  "description": "Teste os seus conhecimentos e veja se chegará ao seu primeiro milhão :)",
   "questions": [
     {
       "image": "https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif",
-      "title": "Pergunta 1???",
-      "description": "Essa é pra aquecer",
+      "title": "Como você deve tratar o seu dinheiro?",
+      "description": "Esta é para aquecer",
       "answer": 2,
       "alternatives": [
-        "Alternativa 1",
-        "Alternativa 2",
-        "Alternativa 3",
-        "Alternativa 4"
+        "Gastar mais do que ganha",
+        "Usar um cartão para pagar o outro",
+        "Gastar menos do que ganha",
+        "Gastar contando com os próximos 2 anos de salário"
       ]
     },
     {
       "image": "https://media.giphy.com/media/5e22CwMaD4oMSk3Qpc/giphy.gif",
-      "title": "Pergunta 2???",
-      "description": "Faz tempo em haha",
+      "title": "Quando está triste, o que devemos fazer?",
+      "description": "Esta é matadora",
       "answer": 0,
       "alternatives": [
-         "Alternativa 1",
-         "Alternativa 2"
+         "Refletir e fazer o que está ao seu alcance",
+         "Ir ao shopping e gastar para se sentir melhor",
+         "Sair para beber todas"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/14SAx6S02Io1ThOlOY/giphy.gif",
+      "title": "O que pensa sobre aposentadoria?",
+      "description": "Esta é para levar pra vida",
+      "answer": 1,
+      "alternatives": [
+        "Vou viver do INSS e comprar um iate",
+        "Irei usufruir dos meus ativos conquistados ao longo da vida",
+        "Acho que vou morrer antes, bebo muita Coca Cola"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
